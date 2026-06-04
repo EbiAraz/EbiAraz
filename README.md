@@ -13,10 +13,10 @@
 ## 💬 About Me
 I am an AI and software engineer with 7+ years of experience building practical systems that transform complex operations into clear, reliable user experiences.
 
-- Working on: intelligent dashboard systems and real-time decision support
-- Focus areas: deep learning, NLP, reinforcement learning, machine learning, computer vision, data mining, AI programming, and web developer
-- Goal: ship robust, measurable products that improve safety and operational efficiency
-- Open to: collaboration on AI, automation, data-centric product engineering and buiding scalable applications 
+- Working on: **intelligent dashboard systems and real-time decision support
+- Focus areas: **deep learning, NLP, reinforcement learning, machine learning, computer vision, data mining, AI programming, and web developer
+- Goal: **ship robust, measurable products that improve safety and operational efficiency
+- Open to: **collaboration on AI, automation, data-centric product engineering and buiding scalable applications, intelligent systems
 
 ## 🚀 Skills
 - **Programming: **Python, C++, JavaScript, Java
@@ -47,6 +47,9 @@ Creative web design project
 - [Mountain Car DQN](https://github.com/EbiAraz/Mountain-car-DQN-): Reinforcement learning project that trains an agent to solve the MountainCar task with value-based methods.
 - [UMAP Clustering](https://github.com/EbiAraz/UMAP-clustering): Demonstrates dimensionality reduction and clustering workflows for exploratory data analysis.
 - [XGBoost Classification](https://github.com/EbiAraz/Classify-with-xgboost): Builds classification pipelines with gradient boosting for practical supervised learning problems.
+- **working in Railway obstacle detection startup
+- **Blind spots in the heavy transport industry
+- ** build the AI model for wildfire
 
 ## 📊 GitHub Analytics
 <p align="center">
