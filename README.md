@@ -51,16 +51,6 @@ Creative web design project
 - **Blind spots in the heavy transport industry
 - ** build the AI model for wildfire
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EbiAraz&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=EbiAraz&theme=default&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbiAraz&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
 ## ⭐ Current Priorities
 - Building production-ready AI features with clear ROI
 - Improving reliability and observability in deployed systems
