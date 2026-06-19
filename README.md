@@ -42,6 +42,7 @@ Creative web design project
 </p>
 
 ## ⭐ Featured Work
+- [semantic-RAG](https://huggingface.co/spaces/EbiAraz/semantic-rag): application interface of semantic-RAG (click to running in huggingface)
 - [Churn Risk Prediction](https://github.com/EbiAraz/churn-risk-prediction): Predicts customer churn risk from tabular data and tunes decision thresholds to improve precision-recall tradeoffs.
 - [Catch Game with DQN](https://github.com/EbiAraz/-Catch-Game-with-DQN): Implements a Deep Q-Network agent for a game environment using reward-driven policy learning.
 - [Mountain Car DQN](https://github.com/EbiAraz/Mountain-car-DQN-): Reinforcement learning project that trains an agent to solve the MountainCar task with value-based methods.
@@ -52,7 +53,6 @@ Creative web design project
 - Building AI models for wildfire-related applications.
 
 ## 🆕 Newer Repositories
-- [semantic-RAG](https://huggingface.co/spaces/EbiAraz/semantic-rag): application interface of semantic-RAG
 - [SENTIMENT-NLP-](https://github.com/EbiAraz/SENTIMENT-NLP-): End-to-end sentiment analysis project with DistilBERT, training pipeline, and Streamlit app.
 - [Pytorch](https://github.com/EbiAraz/Pytorch): Neural network learning notes and PyTorch implementation exercises.
 - [Mountain-car-DQN-](https://github.com/EbiAraz/Mountain-car-DQN-): Reinforcement learning project using Deep Q-Network on MountainCar.
