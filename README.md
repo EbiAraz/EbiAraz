@@ -64,7 +64,7 @@ Creative web design project
 - Publishing cleaner documentation and technical writeups
 
 ## 📫 Contact Me
-- Email: ebimahmudi1987@gmail.com
+- Email: ebimahmudali@gmail.com
 
 ---
 If you find my work useful, feel free to star a repository or reach out for collaboration.
