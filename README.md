@@ -44,8 +44,8 @@ Creative web design project
 ## ⭐ Featured Work
 - [semantic-RAG](https://huggingface.co/spaces/EbiAraz/semantic-rag): application interface of semantic-RAG (click to running in huggingface)
 - [Churn Risk Prediction](https://github.com/EbiAraz/churn-risk-prediction): Predicts customer churn risk from tabular data and tunes decision thresholds to improve precision-recall tradeoffs.
-- [Catch Game with DQN](https://github.com/EbiAraz/-Catch-Game-with-DQN): Implements a Deep Q-Network agent for a game environment using reward-driven policy learning.
-- [Mountain Car DQN](https://github.com/EbiAraz/Mountain-car-DQN-): Reinforcement learning project that trains an agent to solve the MountainCar task with value-based methods.
+- [Catch Game with DQN](https://github.com/EbiAraz/-Catch-Game-with-DQN): Implements a Deep Q-Network AGENT for a game environment using reward-driven policy learning.
+- [Mountain Car DQN](https://github.com/EbiAraz/Mountain-car-DQN-): Reinforcement learning project that trains an AGENT to solve the MountainCar task with value-based methods.
 - [UMAP Clustering](https://github.com/EbiAraz/UMAP-clustering): Demonstrates dimensionality reduction and clustering workflows for exploratory data analysis.
 - [XGBoost Classification](https://github.com/EbiAraz/Classify-with-xgboost): Builds classification pipelines with gradient boosting for practical supervised learning problems.
 - Working in a Railway obstacle-detection startup.
